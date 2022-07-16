@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "671287714066",
+    "project_id": "radio-7-estrellas-de-david",
+    "storage_bucket": "radio-7-estrellas-de-david.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671287714066:android:17189c281f5fe1ec0e13cb",
+        "android_client_info": {
+          "package_name": "com.edxelaltamirano.radio7estrellasdedavid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671287714066-509aev4o79psv0mq989bneomuivqk6f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edxelaltamirano.radio7estrellasdedavid",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "671287714066-4l4ctrqvp7tcn2roc4k7librdkt78o4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSTHuWD3Jc8lKaSUMmeVt87tdwx4y3E4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671287714066-4l4ctrqvp7tcn2roc4k7librdkt78o4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671287714066-dlduqdrg6gjme7u50896llfd54da9as3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edxelaltamirano.radio7estrellasdedavid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
